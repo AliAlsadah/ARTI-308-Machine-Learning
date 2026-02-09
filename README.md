@@ -1,2 +1,1 @@
-# ARTI-308-Machine-Learning
-ARTI 308 – Machine Learning Course Labs
+I have chosen a banking dataset that contains information about 4,521 customers, including their jobs, account balances, and how they responded to previous marketing calls. The main goal of this project is to solve a Classification problem by predicting whether a customer will say "yes" or "no" to a term deposit. The target variable I am focusing on is the column labeled 'y'. By using this data, I want to help the bank understand which customers are most likely to subscribe so they can reach out to the right people in a more personal and effective way.
